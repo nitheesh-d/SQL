@@ -10,7 +10,6 @@ Analyze restaurant performance based on customer reviews, ratings, and other met
 Identify trends in restaurant categories, pricing, and customer preferences.
 Provide actionable insights to improve customer satisfaction and optimize operations.
 
-Dataset
 Dataset Name: Jomato
 
 The dataset contains information about restaurants in a city.
